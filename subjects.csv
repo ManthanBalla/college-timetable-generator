@@ -1,0 +1,268 @@
+Semester,Branch,Subject
+1,ALL,Engineering Mathematics-I
+1,ALL,Applied Physics-I
+1,ALL,Applied Chemistry-I
+1,ALL,Engineering Mechanics
+1,ALL,Basic Electrical Engineering
+1,ALL,Engineering Graphics
+1,ALL,Communication Skills-I
+
+2,ALL,Engineering Mathematics-II
+2,ALL,Applied Physics-II
+2,ALL,Applied Chemistry-II
+2,ALL,Engineering Drawing
+2,ALL,C Programming
+2,ALL,Environmental Studies
+2,ALL,Communication Skills-II
+
+3,COMPS,Engineering Mathematics-III
+3,COMPS,Data Structures
+3,COMPS,Discrete Mathematics
+3,COMPS,OOP in Java
+3,COMPS,Digital Logic Design
+
+3,AIDS,Engineering Mathematics-III
+3,AIDS,Data Structures
+3,AIDS,Discrete Mathematics
+3,AIDS,OOP in Java
+3,AIDS,Artificial Intelligence Fundamentals
+
+3,CSD,Engineering Mathematics-III
+3,CSD,Data Structures
+3,CSD,Discrete Mathematics
+3,CSD,OOP in Java
+3,CSD,Computer Graphics
+
+3,IT,Engineering Mathematics-III
+3,IT,Data Structures
+3,IT,Discrete Mathematics
+3,IT,OOP in Java
+3,IT,Logic Design
+
+3,Mechanical,Engineering Mathematics-III
+3,Mechanical,Engineering Thermodynamics
+3,Mechanical,Strength of Materials
+3,Mechanical,Production Processes
+3,Mechanical,Fluid Mechanics
+
+3,Civil,Engineering Mathematics-III
+3,Civil,Surveying
+3,Civil,Strength of Materials
+3,Civil,Fluid Mechanics
+3,Civil,Building Materials & Construction
+
+3,Mechatronics,Engineering Mathematics-III
+3,Mechatronics,Strength of Materials
+3,Mechatronics,Electronics Devices & Circuits
+3,Mechatronics,Fluid Mechanics
+3,Mechatronics,Machine Drawing
+
+4,COMPS,Engineering Mathematics-IV
+4,COMPS,Analysis of Algorithms
+4,COMPS,Computer Organization
+4,COMPS,Operating Systems
+4,COMPS,Database Management Systems
+
+4,AIDS,Engineering Mathematics-IV
+4,AIDS,Analysis of Algorithms
+4,AIDS,Operating Systems
+4,AIDS,Database Management Systems
+4,AIDS,Probability & Statistics
+
+4,CSD,Engineering Mathematics-IV
+4,CSD,Analysis of Algorithms
+4,CSD,Operating Systems
+4,CSD,Database Management Systems
+4,CSD,HCI (Human Computer Interaction)
+
+4,IT,Engineering Mathematics-IV
+4,IT,Analysis of Algorithms
+4,IT,Operating Systems
+4,IT,Database Management Systems
+4,IT,Computer Organization
+
+4,Mechanical,Engineering Mathematics-IV
+4,Mechanical,Theory of Machines
+4,Mechanical,Fluid Machinery
+4,Mechanical,Manufacturing Processes
+4,Mechanical,Material Science
+
+4,Civil,Engineering Mathematics-IV
+4,Civil,Structural Analysis
+4,Civil,Building Planning & Design
+4,Civil,Hydraulics
+4,Civil,Concrete Technology
+
+4,Mechatronics,Engineering Mathematics-IV
+4,Mechatronics,Theory of Machines
+4,Mechatronics,Control Systems
+4,Mechatronics,Manufacturing Processes
+4,Mechatronics,Microprocessors
+
+5,COMPS,Microprocessor
+5,COMPS,Computer Networks
+5,COMPS,Theory of Computation
+5,COMPS,Software Engineering
+5,COMPS,Web Technologies
+
+5,AIDS,Data Science
+5,AIDS,Machine Learning
+5,AIDS,Computer Networks
+5,AIDS,Database Applications
+5,AIDS,Probability & Random Processes
+
+5,CSD,Computer Networks
+5,CSD,Software Engineering
+5,CSD,Web Technologies
+5,CSD,Computer Graphics & Animation
+5,CSD,AI Principles
+
+5,IT,Computer Networks
+5,IT,Software Engineering
+5,IT,Web Technologies
+5,IT,Computer Organization & Architecture
+5,IT,Data Warehousing
+
+5,Mechanical,Design of Machine Elements-I
+5,Mechanical,Fluid Power Engineering
+5,Mechanical,Dynamics of Machinery
+5,Mechanical,Manufacturing Technology
+5,Mechanical,Industrial Engineering
+
+5,Civil,Structural Analysis-II
+5,Civil,Geotechnical Engineering-I
+5,Civil,Transportation Engineering-I
+5,Civil,Environmental Engineering-I
+5,Civil,Surveying-II
+
+5,Mechatronics,Microcontrollers
+5,Mechatronics,Robotics
+5,Mechatronics,Digital Electronics
+5,Mechatronics,Control Engineering
+5,Mechatronics,Instrumentation
+
+6,COMPS,Compiler Design
+6,COMPS,Software Testing & Quality Assurance
+6,COMPS,Data Mining & Business Intelligence
+6,COMPS,Cryptography & Network Security
+6,COMPS,Mobile Computing
+
+6,AIDS,Deep Learning
+6,AIDS,Big Data Analytics
+6,AIDS,Software Testing
+6,AIDS,Cryptography & Network Security
+6,AIDS,Natural Language Processing
+
+6,CSD,Multimedia Systems
+6,CSD,UI/UX Design
+6,CSD,Cloud Computing
+6,CSD,Cryptography & Network Security
+6,CSD,Game Design Principles
+
+6,IT,Software Testing
+6,IT,Cloud Computing
+6,IT,Data Mining
+6,IT,Cryptography & Network Security
+6,IT,Mobile Application Development
+
+6,Mechanical,Design of Machine Elements-II
+6,Mechanical,Heat Transfer
+6,Mechanical,Refrigeration & Air Conditioning
+6,Mechanical,Automobile Engineering
+6,Mechanical,Finite Element Analysis
+
+6,Civil,Geotechnical Engineering-II
+6,Civil,Transportation Engineering-II
+6,Civil,Environmental Engineering-II
+6,Civil,Structural Design-I
+6,Civil,Hydrology
+
+6,Mechatronics,Power Electronics
+6,Mechatronics,Embedded Systems
+6,Mechatronics,Industrial Automation
+6,Mechatronics,Robotics & AI
+6,Mechatronics,Mechatronics System Design
+
+7,COMPS,Artificial Intelligence
+7,COMPS,Distributed Computing
+7,COMPS,Information & Cyber Security
+7,COMPS,Data Science
+7,COMPS,Elective (Blockchain/IoT/Cloud)
+
+7,AIDS,Advanced Machine Learning
+7,AIDS,Reinforcement Learning
+7,AIDS,Data Visualization
+7,AIDS,AI in Healthcare
+7,AIDS,Elective (IoT/Cloud/Big Data)
+
+7,CSD,Augmented & Virtual Reality
+7,CSD,Advanced Graphics
+7,CSD,Distributed Computing
+7,CSD,Information Security
+7,CSD,Elective (Game AI/HCI Design)
+
+7,IT,Artificial Intelligence
+7,IT,Distributed Computing
+7,IT,Information Security
+7,IT,Data Science
+7,IT,Elective (Blockchain/IoT/Cloud)
+
+7,Mechanical,Automobile Engineering
+7,Mechanical,Industrial Robotics
+7,Mechanical,Energy Engineering
+7,Mechanical,Operations Research
+7,Mechanical,Elective (Mechatronics/3D Printing)
+
+7,Civil,Structural Design-II
+7,Civil,Water Resources Engineering
+7,Civil,Construction Management
+7,Civil,Transportation Systems
+7,Civil,Elective (Bridge Engineering/Remote Sensing)
+
+7,Mechatronics,Machine Vision
+7,Mechatronics,Advanced Robotics
+7,Mechatronics,AI in Mechatronics
+7,Mechatronics,Automated Control Systems
+7,Mechatronics,Elective (IoT/Smart Systems)
+
+8,COMPS,Machine Learning Applications
+8,COMPS,Big Data Analytics
+8,COMPS,Project Management
+8,COMPS,Major Project
+8,COMPS,Elective (Deep Learning/Cloud Security)
+
+8,AIDS,AI Ethics
+8,AIDS,Big Data Applications
+8,AIDS,Project Management
+8,AIDS,Major Project
+8,AIDS,Elective (Computer Vision/AI for IoT)
+
+8,CSD,Design Thinking
+8,CSD,Innovation in Computing
+8,CSD,Project Management
+8,CSD,Major Project
+8,CSD,Elective (UI/UX Research/Game Development)
+
+8,IT,Deep Learning
+8,IT,Data Analytics
+8,IT,Project Management
+8,IT,Major Project
+8,IT,Elective (IoT/AI Applications)
+
+8,Mechanical,Renewable Energy
+8,Mechanical,Industrial Engineering & Management
+8,Mechanical,Project Management
+8,Mechanical,Major Project
+8,Mechanical,Elective (Robotics/Automation)
+
+8,Civil,Advanced Structural Engineering
+8,Civil,Environmental Management
+8,Civil,Project Management
+8,Civil,Major Project
+8,Civil,Elective (Smart Cities/Infrastructure Design)
+
+8,Mechatronics,Smart Sensors
+8,Mechatronics,IoT in Mechatronics
+8,Mechatronics,Project Management
+8,Mechatronics,Major Project
+8,Mechatronics,Elective (AI Robotics/Embedded AI)

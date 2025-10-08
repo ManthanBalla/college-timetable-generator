@@ -1,0 +1,29 @@
+Day,Time Slot,Subject,Teacher,Room/Lab,Branch,Semester
+Monday,9:15-10:15,Deep Learning,Dr. E,R109,AIDS,Semester 6
+Monday,10:15-11:15,Natural Language Processing,Dr. G,Lab209,AIDS,Semester 6
+Monday,Tea Break (11:15-11:30),Tea Break,-,-,AIDS,Semester 6
+Monday,Lunch Break (1:30-2:00),Lunch Break,-,-,AIDS,Semester 6
+Monday,2:00-3:00,Cryptography & Network Security,Prof. F,R108,AIDS,Semester 6
+Monday,3:00-4:00,Software Testing,Dr. C,Lab204,AIDS,Semester 6
+Tuesday,9:15-10:15,Big Data Analytics,Dr. G,R108,AIDS,Semester 6
+Tuesday,10:15-11:15,Natural Language Processing,Prof. F,Lab207,AIDS,Semester 6
+Tuesday,Tea Break (11:15-11:30),Tea Break,-,-,AIDS,Semester 6
+Tuesday,Lunch Break (1:30-2:00),Lunch Break,-,-,AIDS,Semester 6
+Tuesday,2:00-3:00,Cryptography & Network Security,Dr. E,R105,AIDS,Semester 6
+Tuesday,3:00-4:00,Deep Learning,Prof. D,Lab204,AIDS,Semester 6
+Wednesday,9:15-10:15,Deep Learning,Dr. A,R111,AIDS,Semester 6
+Wednesday,10:15-11:15,Natural Language Processing,Dr. E,Lab205,AIDS,Semester 6
+Wednesday,Tea Break (11:15-11:30),Tea Break,-,-,AIDS,Semester 6
+Wednesday,Lunch Break (1:30-2:00),Lunch Break,-,-,AIDS,Semester 6
+Wednesday,2:00-3:00,Big Data Analytics,Dr. C,R113,AIDS,Semester 6
+Wednesday,3:00-4:00,Software Testing,Prof. F,R101,AIDS,Semester 6
+Thursday,9:15-10:15,Natural Language Processing,Dr. C,Lab204,AIDS,Semester 6
+Thursday,10:15-11:15,Cryptography & Network Security,Dr. E,R102,AIDS,Semester 6
+Thursday,Tea Break (11:15-11:30),Tea Break,-,-,AIDS,Semester 6
+Thursday,Lunch Break (1:30-2:00),Lunch Break,-,-,AIDS,Semester 6
+Friday,9:15-10:15,Software Testing,Dr. G,Lab207,AIDS,Semester 6
+Friday,10:15-11:15,Cryptography & Network Security,Dr. A,R106,AIDS,Semester 6
+Friday,Tea Break (11:15-11:30),Tea Break,-,-,AIDS,Semester 6
+Friday,Lunch Break (1:30-2:00),Lunch Break,-,-,AIDS,Semester 6
+Friday,2:00-3:00,Deep Learning,Prof. F,R110,AIDS,Semester 6
+Friday,3:00-4:00,Natural Language Processing,Dr. C,R103,AIDS,Semester 6
